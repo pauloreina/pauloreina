@@ -15,6 +15,7 @@
 
 ## 📫 Contatos
 <a href="https://instagram.com/paulorreina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.facebook.com/pauloreina/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--
 **pauloreina/pauloreina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
